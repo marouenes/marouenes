@@ -38,14 +38,14 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/golang.svg" alt="" width="20" height="=20"> Golang.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouenes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Marouane's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouenes&include_all_commits=true&count_private=true&theme=juicyfresh&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Marouane's Github Stats">
 
 <br>
 </br>
 
 ---
 
-### Feel free to connect and s𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/python-Expert-_.svg?logo=python"></a>
@@ -67,6 +67,6 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 </div>
 
-#
+# 
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
