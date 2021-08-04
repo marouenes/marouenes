@@ -28,7 +28,7 @@ func GetBio() Bio {
 }
 ```
 
-2+ years professional experience as a software developer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> c++ enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
+2+ years professional experience as a software developer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
