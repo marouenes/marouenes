@@ -1,4 +1,4 @@
-2+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java enthusiast. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/python.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
+2+ years professional experience as a software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/master/img/python.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development, data engineering and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
@@ -6,7 +6,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
-  <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/marouane-skandaji"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
