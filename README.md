@@ -36,6 +36,10 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/golang.svg" alt="" width="20" height="=20"> Golang.
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+</div>
+
 <p>
   <a href="https://www.linkedin.com/in/marouane-skandaji"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/python-Expert-_.svg?logo=python"></a>
