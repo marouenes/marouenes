@@ -45,7 +45,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 ---
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Feel free to connect and show some love to my repositories</span>
+### Feel free to connect and s𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/python-Expert-_.svg?logo=python"></a>
@@ -66,3 +66,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 <hr>
 
 </div>
+
+#
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
