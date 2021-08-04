@@ -44,7 +44,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 </br>
 
 ---
-<i>Feel free to connect and show some love to my repositories</i>
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Feel free to connect and show some love to my repositories</span>
 <p>
   <a href="https://www.linkedin.com/in/marouane-skandaji"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/python-Expert-_.svg?logo=python"></a>
