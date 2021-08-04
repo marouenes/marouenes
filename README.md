@@ -17,18 +17,18 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Ericsson as a Junior Data Engineer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- ⚡ Quick bio:":                    "A kind of synthWave-melomaniac-gearAddict-ethicalHacker-traveler-foodLover-gamer-coder-programmer-sportsAficionado hybrid",
+		"- 🔭 I’m currently working on":      "Ericsson as a Data Engineer --- Playing CTFs on my free time",
+		"- 🌱 I’m currently learning":        "Apache Spark, MongoDB, AWS, K8s, Apache airflow, (Tech stack from my company) --- Sharpening my Cloud and Infrastruce Skills (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Python, Big Data and Cloud Native related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"- 💬 Ask me about":                  "Python, C++, SQL, Software Design & Architecture, Web-Dev and ML",
+		"- 📫 How to reach me:":              "marouane.skandaji@gmail.com",
 	}
 }
 ```
 
-2+ years professional experience as a software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
+2+ years professional experience as a software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/c++.svg" alt="" height="20"> Java enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
