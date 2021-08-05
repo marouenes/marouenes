@@ -73,7 +73,9 @@ Steadily growing into people management and recently into <img src="https://raw.
 <hr>
 
 </div>
-
+<!--
 # 
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+
+-->
