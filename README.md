@@ -37,13 +37,12 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/golang.svg" alt="" width="20" height="=20"> Golang.
 
-
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marouenes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Marouane's Github Stats">
 
 <br>
 </br>
-
----
+-->
 
 <br>
 
