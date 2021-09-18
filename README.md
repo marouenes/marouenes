@@ -50,7 +50,11 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <br/>
 
+<br>
 
+[Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react)
+
+</br>
 <br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true)
