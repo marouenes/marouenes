@@ -46,6 +46,13 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <br>
 
+[![Marouane's github activity graph](https://activity-graph.herokuapp.com/graph?username=marouenes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+
+<br>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true)
 
 <br/>
