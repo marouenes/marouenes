@@ -52,7 +52,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <br>
 
-[Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react)
+![Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react)
 
 </br>
 <br>
