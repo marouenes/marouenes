@@ -62,7 +62,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/python-Expert-_.svg?logo=python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-Lover-_.svg?logo=python"></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache-Enthusiast-_.svg?logo=apache"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
