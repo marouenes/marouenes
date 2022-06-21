@@ -1,37 +1,39 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h2>
 </div>
 
 ```golang
 package main
 
 import (
-	"fmt"
+ "fmt"
 )
 
 type Bio map[string]string
 
 func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
+ for k, v := range GetBio() {
+  fmt.Printf("%+v: %+v\n", k, v)
+ }
 }
 
 func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of synthWave-melomaniac-gearAddict-ethicalHacker-traveler-foodLover-gamer-coder-programmer-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Ericsson as a Data Engineer --- Playing CTFs on my free time",
-		"- 🌱 I’m currently learning":        "Apache Spark, MongoDB, AWS, K8s, Apache airflow, (Tech stack from my company) --- Sharpening my Cloud and Infrastruce Skills (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Big Data and Cloud Native related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, C++, SQL, Software Design & Architecture, Web-Dev and ML",
-		"- 📫 How to reach me:":              "marouane.skandaji@gmail.com",
-	}
+ return Bio{
+  "- ⚡ Quick bio:":                    "A kind of synthWave-melomaniac-gearAddict-ethicalHacker-traveler-foodLover-gamer-coder-programmer-sportsAficionado hybrid",
+  "- 🔭 I’m currently working at":      "Ericsson as a Data Engineer --- camping on my freetime",
+  "- 🌱 I’m currently learning":        "Cloud computing, k8s, high performace dig data processing frameworks --- Sharpening my Cloud and Infrastruce Skills (Personal goal)",
+  "- 👯 I’m looking to collaborate on": "Big Data and Cloud Native related projects",
+  "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+  "- 💬 Ask me about":                  "Programming, Data management, Software Design & Architecture and ML",
+  "- 📫 How to reach me:":              "marouane.skandaji@gmail.com",
+ }
 }
 ```
+
 <div align="center">
 
-2+ years professional experience as a software developer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
+2+ years professional experience as a software developer and Big-data Engineer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
@@ -59,7 +61,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 ---
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/python-Lover-_.svg?logo=python"></a>
@@ -70,18 +72,18 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <p align="center">
   <a href="https://marouenes.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:marouane.skandaji@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/marouenes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/marouane-skandaji"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/MarouaneSkandaji"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/skandaji_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+ <a href="mailto:marouane.skandaji@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+ <a href="https://github.com/marouenes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+ <a href="https://linkedin.com/in/marouane-skandaji"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ <a href="https://www.facebook.com/MarouaneSkandaji"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+ <a href="https://instagram.com/skandaji_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <hr>
 
 </div>
 <!--
-# 
+#
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
 
