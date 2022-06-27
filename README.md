@@ -49,25 +49,9 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <br>
 
-<!-- ![Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react">
-  <img alt="Marouane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=light">
-</picture>
+![Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)
 
 </br>
-
-<br>
-
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true">
-  <img alt="Marouane's GitHub Graph" src="https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-light&hide_border=true&area=true">
-</picture>
-
-<br/>
 
 ---
 
