@@ -58,6 +58,11 @@ Steadily growing into people management and recently into <img src="https://raw.
   <img src="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react#gh-dark-mode-only" alt="Marouane's Github Stats">
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react">
+  <img alt="Marouane's GitHub Stats">
+</picture>
+
 </br>
 
 <br>
