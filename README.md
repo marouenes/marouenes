@@ -50,13 +50,6 @@ Steadily growing into people management and recently into <img src="https://raw.
 <br>
 
 <!-- ![Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react) -->
-<!-- <a href="https://github.com/marouenes#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react#gh-light-mode-only" alt="Marouane's Github Stats">
-</a>
-
-<a href="https://github.com/marouenes#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react#gh-dark-mode-only" alt="Marouane's Github Stats">
-</a> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react">
@@ -69,13 +62,10 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true) -->
 
-<a href="https://github.com/marouenes#gh-light-mode-only">
-  <img src="https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true#gh-light-mode-only" alt="Marouane's Github Graph">
-</a>
-
-<a href="https://github.com/marouenes#gh-dark-mode-only">
-</a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true#gh-dark-mode-only" alt="Marouane's Github Graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-dark&hide_border=true&area=true">
+  <img alt="Marouane's GitHub Graph" src="https://activity-graph.herokuapp.com/graph?username=marouenes&theme=react-light&hide_border=true&area=true">
+</picture>
 
 <br/>
 
