@@ -60,7 +60,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=react">
-  <img alt="Marouane's GitHub Stats" src=https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=light">
+  <img alt="Marouane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&theme=light">
 </picture>
 
 </br>
