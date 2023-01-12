@@ -47,14 +47,6 @@ Steadily growing into people management and recently into <img src="https://raw.
 -->
 ---
 
-<br>
-
-![Marouane's Stats](https://github-readme-stats.vercel.app/api?username=marouenes&show_icons=true&locale=en&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)
-
-</br>
-
----
-
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜
 
 <p>
