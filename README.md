@@ -20,12 +20,10 @@ func main() {
 
 func GetBio() Bio {
  return Bio{
-  "- ⚡ Quick bio:":                    "A kind of synthWave-melomaniac-gearAddict-ethicalHacker-traveler-foodLover-gamer-coder-programmer-sportsAficionado hybrid",
-  "- 🔭 I’m currently working at":      "Ericsson as a Data Engineer --- camping on my freetime",
-  "- 🌱 I’m currently learning":        "Cloud computing, k8s, high performace dig data processing frameworks --- Sharpening my Cloud and Infrastruce Skills (Personal goal)",
-  "- 👯 I’m looking to collaborate on": "Big Data and Cloud Native related projects",
-  "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-  "- 💬 Ask me about":                  "Programming, Data management, Software Design & Architecture and ML",
+  "- ⚡ Quick bio:":                    "A kind of synthWave-melomaniac-gearAddict-traveler-foodLover-coder-programmer-sportsAficionado hybrid",
+  "- 🔭 I’m currently working at":      "ThermoFisher as a Big Data Engineer --- camping on my freetime",
+  "- 👯 I’m looking to collaborate on": "Whatever boy..., bring it up.",
+  "- 💬 Ask me about":                  "Programming, Data management, Software Design & Architecture, Distributed Systems and AI/ML",
   "- 📫 How to reach me:":              "marouane.skandaji@gmail.com",
  }
 }
@@ -33,11 +31,11 @@ func GetBio() Bio {
 
 <div align="center">
 
-5+ years professional experience as a software developer and Big-data Engineer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in backend development, data engineering and build management.
+5+ years professional experience as a software developer and Big-data Engineer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in SW engineering, backend development, data engineering and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
-Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/golang.svg" alt="" width="20" height="=20"> Golang.
+Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/golang.svg" alt="" width="20" height="=20"> Golang and <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/rust.svg" alt="" width="20" height="=20"> Rust.
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marouenes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Marouane's Github Stats">
@@ -45,6 +43,7 @@ Steadily growing into people management and recently into <img src="https://raw.
 <br>
 </br>
 -->
+
 ---
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜
