@@ -3,7 +3,9 @@
 <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h2>
 </div>
 
-![Alt Text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVEW0-R4Wq36hY1xItZZRskfaV2StH9bLD4E0Tz0kqHSq_zfLCz5Nb17xJHjbihAaDSME2omGdGhseYclqJc1crhB-KxdgqjAQ3KnUKEnjYrpOCJB3qQBTxvNCRUU9Osf6ZHmnZMKc0k0/s1600/out.gif)
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVEW0-R4Wq36hY1xItZZRskfaV2StH9bLD4E0Tz0kqHSq_zfLCz5Nb17xJHjbihAaDSME2omGdGhseYclqJc1crhB-KxdgqjAQ3KnUKEnjYrpOCJB3qQBTxvNCRUU9Osf6ZHmnZMKc0k0/s1600/out.gif" alt="Alt Text">
+</p>
 
 <div align="center">
 
