@@ -3,35 +3,11 @@
 <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"></h2>
 </div>
 
-```golang
-package main
-
-import (
- "fmt"
-)
-
-type Bio map[string]string
-
-func main() {
- for k, v := range GetBio() {
-  fmt.Printf("%+v: %+v\n", k, v)
- }
-}
-
-func GetBio() Bio {
- return Bio{
-  "- Quick bio:":                    "A kind of synthWave-melomaniac-gearAddict-traveler-foodLover-coder-programmer-sportsAficionado hybrid",
-  "- I’m currently working at":      "ThermoFisher as a Big Data Engineer --- camping on my freetime",
-  "- I’m looking to collaborate on": "Whatever boy..., bring it up.",
-  "- Ask me about":                  "Programming, Data management, Software Design & Architecture, Distributed Systems and AI/ML",
-  "- How to reach me:":              "marouane.skandaji@gmail.com",
- }
-}
-```
+![Alt Text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVEW0-R4Wq36hY1xItZZRskfaV2StH9bLD4E0Tz0kqHSq_zfLCz5Nb17xJHjbihAaDSME2omGdGhseYclqJc1crhB-KxdgqjAQ3KnUKEnjYrpOCJB3qQBTxvNCRUU9Osf6ZHmnZMKc0k0/s1600/out.gif)
 
 <div align="center">
 
-5+ years professional experience as a software developer and Big-data Engineer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in SW engineering, backend development, data engineering and build management.
+7+ years professional experience as a software developer and Big-data Engineer. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/cplusplus.svg" alt="" height="20"> enthusiast. <img src="https://raw.githubusercontent.com/marouenes/marouenes/main/img/python.svg" alt="" height="20"> Pythonist. Specialised in SW engineering, backend development, data engineering and build management.
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
